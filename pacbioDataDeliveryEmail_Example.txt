@@ -1,0 +1,35 @@
+Subject:Sequence ready for download - Project - sample aotus_azarae
+
+We have now performed quality control of the sequence data for the above samples and the sequence data as well as the associated quality control files are now ready for pick-up.
+
+----- Delivery method ------
+You can download data and all quality control reports from NSC ftp site by applying the following information:
+
+https://webserver1.norstore.uio.no/Project_*/
+
+username: username
+password: password
+
+Please refer to our website (http://www.sequencing.uio.no/services/data-delivery/) for a detailed explanation of file contents and formats.
+
+A md5sum.txt file is included in the result folder. In the folder, you can check whether the files are downloaded completely by type the following command in the terminal:
+
+md5sum -c md5sum.txt
+
+
+------ Understanding the data ------
+Please refer to our website (http://www.sequencing.uio.no/services/data-delivery/) for a detailed explanation of file contents and formats. This web page contains a lot of information that is essential to understanding your sequence data, so please read it. However, we would like to particularly emphasize one very IMPORTANT point: the sequence files are in Sanger fastq format (see http://en.wikipedia.org/wiki/FASTQ_format).
+
+
+------- Acknowledgement -------
+The Norwegian Sequencing Centre (NSC) operates as a core facility and you will therefore not be billed for the labour costs incurred. However, you are requested to acknowledge the support you have received from the bodies funding the NSC. Please use the following text in articles or reports relating to this sequence data:
+"The sequencing service was provided by the Norwegian Sequencing Centre (www.sequencing.uio.no), a national technology platform hosted by the University of Oslo and supported by the "Functional Genomics" and "Infrastructure" programs of the Research Council of Norway and the Southeastern Regional Health Authorities".
+
+
+----- Conclusion ------
+Please let us know how you get on with the above. It is not unlikely that you experience some problem (or have a question), in which case don't hesitate to get in touch. Hopefully, however, everything is fine and you are able to download, access and understand your data, in which case we also value your feedback.
+
+
+--
+Firstname Lastname 
+Signature
