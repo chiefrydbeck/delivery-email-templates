@@ -10,9 +10,9 @@ https://webserver1.norstore.uio.no/Project_*/
 username: username
 password: password
 
-Please refer to our website (http://www.sequencing.uio.no/services/data-delivery/) for a detailed explanation of file contents and formats.
+Please refer to our website (http://www.sequencing.uio.no/services/data-delivery/) for help on how to download the data.
 
-A md5sum.txt file is included in the result folder. In the folder, you can check whether the files are downloaded completely by type the following command in the terminal:
+An md5sum.txt file is included in the result folder. In the folder, you can check whether the files are downloaded completely by type the following command in the terminal:
 
 md5sum -c md5sum.txt
 
